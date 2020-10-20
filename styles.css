@@ -1,0 +1,30 @@
+
+
+.div {
+    float: left; 
+    width: 50%;
+}
+
+.divTextos{
+    padding: 2em;
+}
+
+.image {
+    width: 100%;
+    padding: 0 !important;
+    margin: 0;
+}
+
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+
+}
+
+.main{
+    text-align: center;
+    font-size: 1.3em;
+    color: #D1D2D3;
+
+}
